@@ -1,0 +1,7 @@
+discord.py==2.6.4
+aiohttp>=3.9,<4
+aiofiles>=23.2,<25
+aiosqlite>=0.19,<1
+jishaku>=2.5,<3
+python-dotenv>=1.0,<2
+colorama>=0.4,<1
